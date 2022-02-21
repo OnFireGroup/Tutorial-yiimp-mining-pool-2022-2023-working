@@ -120,8 +120,12 @@ sudo update-alternatives --config php
 sudo service nginx restart
 sudo service php7.3-fpm restart
 ```
+#### For you to add a port and start stratum automatically, just type the addport command in the terminal
+> will ask for the currency symbol and the algorithm
+> just fill in correctly that it will start alone
 
 # Ready now your pool is almost 100%
+
 
 #### If you install a coin BTC, LTC, DASH, among others, you will have to fix the coin_results.php
 > Using dirty harry as an example. go to /home/yiimp-data/yiimp/site/web/yaamp/modules/site/coin_resuts.php
