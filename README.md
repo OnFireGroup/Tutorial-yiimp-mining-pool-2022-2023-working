@@ -25,7 +25,7 @@ sudo apt install make
 sudo apt update
 sudo apt install build-essential
 ```
-#### 1.2 - Use no ip for domain (optional)
+#### 1.2 - Use no-ip for domain (optional)
 ```
 cd /usr/local/src/
 sudo wget http://www.noip.com/client/linux/noip-duc-linux.tar.gz
