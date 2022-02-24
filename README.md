@@ -127,7 +127,7 @@ sudo service php7.3-fpm restart
 # Ready now your pool is almost 100%
 
 
-#### If you install a coin BTC, LTC, DASH, among others, you will have to fix the coin_results.php
+#### If you install a coin BTC, LTC, DASH, among others, you will have to fix the coin_results.php (this solve RPC Error -8:label argument must be a valid label name or "*" )
 > Using dirty harry as an example. go to /home/yiimp-data/yiimp/site/web/yaamp/modules/site/coin_resuts.php
 >  look for
 ```
