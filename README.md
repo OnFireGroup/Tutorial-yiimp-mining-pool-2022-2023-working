@@ -5,7 +5,6 @@ Tutorial yiimp 2022 working
 ###### BTC: 1Ljwbwd6Z2UDkscDroHdnave1hzmjApmCD
 ###### LTC: LeVPHyxkvGQ4fFW9DFGPYS6deNWY1AcSBo
 ###### DOGE: DE38DhPsxH8mub5XVhJZxFgKHMbUXhLEMp
-###### ETH: 0x4da146cfd87bb6ede98bd7ef78791efc281dde3b
 
 ###### - Tutorial to help install yiimp
 ###### - Tutorial para ajudar na instalação do yiimp
@@ -211,4 +210,3 @@ else if ($coin->symbol == "LTC") $account = ''; //TESTE ONFIRE
 # BTC: 1Ljwbwd6Z2UDkscDroHdnave1hzmjApmCD
 # LTC: LeVPHyxkvGQ4fFW9DFGPYS6deNWY1AcSBo
 # DOGE: DE38DhPsxH8mub5XVhJZxFgKHMbUXhLEMp
-# ETH: 0x4da146cfd87bb6ede98bd7ef78791efc281dde3b
