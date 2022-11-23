@@ -1,4 +1,4 @@
-# Tutorial-yiimp-2022-working
+# Tutorial-yiimp-mining-pool-2022-2023-working
 Tutorial yiimp 2022 working
 ###### Discord: https://discord.gg/K5KVvgm7v7
 ###### - If this tutorial helped you, make a contribution
