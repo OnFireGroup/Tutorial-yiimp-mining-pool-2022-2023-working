@@ -14,7 +14,7 @@ Tutorial yiimp 2022 working
 
 
 ####   Requirements:
-####   UBUNTU 18.04 (I used the minimal install)
+####   UBUNTU 18.04 Desktop (I used the minimal install)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### 1 - install git, curl, make, and gcc
 ```
